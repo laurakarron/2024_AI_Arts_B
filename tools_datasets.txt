@@ -1,0 +1,21 @@
+Tools used in this project:
+
+
+Plugger - https://platform.plugger.ai/assistant?chatUuid=f80b408d-8858-4900-b494-66a9cc502664
+
+SYMBL - https://symbl.cc/en/tools/braille/
+
+Listnr - https://voices.listnr.ai/editor-v2/new
+
+
+
+Data/datasets used in this project:
+
+
+image of object (by author) - available in GitHub folder as file saint_matthew_chapter1_image.jpg
+
+text extracted from image - available in GitHub folder as file saint_matthew_chapter1_text.txt
+
+Braille extracted from text - available in GitHub folder as file saint_matthew_chapter1_braille.txt
+
+audio extracted from text - available in GitHub folder as file saint_matthew_chapter1_audio.mp3
