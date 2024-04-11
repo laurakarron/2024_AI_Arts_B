@@ -1,1 +1,1 @@
-# 2024_AI_Arts_B
+# 2024_AI_Arts_B_Project
